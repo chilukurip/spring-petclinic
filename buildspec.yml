@@ -16,4 +16,6 @@ phases:
 
 artifacts:
   files:
-    - target/petclinic.war        
+    - target/petclinic.war
+    - appspec.yml
+    - codedeploy/*
